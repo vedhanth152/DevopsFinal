@@ -19,14 +19,14 @@ function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fab fa-Snapchat"></i>
+                <i className="fab fa-snapchat" aria-hidden="true"></i>
               </a>
               <a
                 href="https://instagram.com/_ellai_shain_22?igshid=ZDdkNTZiNTM="
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <i className="fab fa-Instagram"></i>
+                <i className="fab fa-instagram"></i>
               </a>
               <a
                 href=" https://twitter.com/VedhanthM1?t=n4AGNGeIADMlOce0fE6XsA&s=08"
@@ -44,8 +44,7 @@ function Footer() {
               </a>
             </div>
             <p className="copyright">
-              Copyright&nbsp;&copy;&nbsp;Nsdvsdike Shoes Temdsvdvsdsvsplate
-            </p>
+              Copyright&nbsp;&copy;&nbsp;2023 Nike,Inc. All Rights Reserved     </p>
             <br />
           </div>
         </div>
