@@ -9,34 +9,34 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section about">
             <p className="footer-para">
-              Developer: <span className="my-name"> Tadawvkugwviywrvuvwbi</span>
+              Developer: <span className="my-name"> Vedhanth</span>
             </p>
 
             <div className="contact"></div>
             <div className="socials">
               <a
-                href="https://www.facebook.com/profile.php?id=100041078220896"
+                href="https://www.snapchat.com/add/vedhanthm2021?share_id=Vaym31cWeaw&locale=en-US"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fab fa-facebook"></i>
+                <i className="fab fa-Snapchat"></i>
               </a>
               <a
-                href="https://www.linkedin.com/in/junaid-qureshi-dvdvs/"
+                href="https://instagram.com/_ellai_shain_22?igshid=ZDdkNTZiNTM="
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <i className="fab fa-linkedin"></i>
+                <i className="fab fa-Instagram"></i>
               </a>
               <a
-                href="https://twitter.com/dsvdsv/"
+                href=" https://twitter.com/VedhanthM1?t=n4AGNGeIADMlOce0fE6XsA&s=08"
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 <i className="fab fa-twitter"></i>
               </a>
               <a
-                href="https://github.com/developer-dsvdsv"
+                href="https://github.com/vedhanth152"
                 rel="noopener noreferrer"
                 target="_blank"
               >
