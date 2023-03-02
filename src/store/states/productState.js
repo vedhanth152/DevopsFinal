@@ -28,7 +28,7 @@ const productState = [
   },
   {
     id: "shoe4",
-    title: "Phantom GT Club DF FG/MG",
+    title: "Phantom GT ",
     price: 65.0,
     imageUrl:
       "https://m.media-amazon.com/images/I/71caHEigvFL._AC_SR700,525_.jpg",
@@ -82,7 +82,7 @@ const productState = [
   },
   {
     id: "shoe10",
-    title: "Revolution 5 (Infant/Toddler)",
+    title: "Revolution 5 ",
     price: 45.0,
     imageUrl:
       "https://m.media-amazon.com/images/I/71soSeWlu8L._AC_SR700,525_.jpg",

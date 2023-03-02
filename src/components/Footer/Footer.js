@@ -19,7 +19,7 @@ function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fab fa-snapchat" aria-hidden="true"></i>
+                <i className="fab fa-snapchat"></i>
               </a>
               <a
                 href="https://instagram.com/_ellai_shain_22?igshid=ZDdkNTZiNTM="
